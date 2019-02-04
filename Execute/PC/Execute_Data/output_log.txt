@@ -1,0 +1,57 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.158 seconds
+Platform assembly: C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.426500 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3998 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+The tree Conector_1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree stone_4 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree stone_3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+The tree stone_5 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 139)
+
+UnloadTime: 10.373600 ms
+Platform assembly: C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\Boo.Lang.dll (this message is harmless)
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 15719.
+Total: 8.115500 ms (FindLiveObjects: 1.007200 ms CreateObjectMapping: 0.156300 ms MarkObjects: 2.485600 ms  DeleteObjects: 4.465300 ms)
+
+Platform assembly: C:\Users\LCH\Desktop\GitFolder\LemonRose\Execute_Data\Managed\UnityScript.Lang.dll (this message is harmless)
